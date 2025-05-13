@@ -82,7 +82,7 @@ A stunning anime movie by Makoto Shinkai
 
 ---
 
-### 🖼️ `Taare Zameen Par`
+### 6. `Taare Zameen Par`
 
 * **Message:** Every child is special
 
@@ -90,7 +90,7 @@ A stunning anime movie by Makoto Shinkai
 
 ---
 
-### 🔒 `2037`
+### 7. `2037`
 
 * Touches on themes of justice and perseverance
 
